@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TechPresenter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Programming.
+- 💞️ I’m looking to collaborate on Linkedin.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/techpresenter/) .
+- ⚡ Fun fact: Traveling , Exploring.
 
 <!---
 TechPresenter/TechPresenter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
