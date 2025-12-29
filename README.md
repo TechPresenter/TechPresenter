@@ -2,6 +2,6 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on Linkedin.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/techpresenter/) .
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prashantdevtech/) .
 - ⚡ Fun fact: Traveling , Exploring.
 
